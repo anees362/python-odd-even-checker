@@ -1,4 +1,3 @@
-# python-odd-even-checker
 
 # Python Odd or Even Checker
 
